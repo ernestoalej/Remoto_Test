@@ -1,0 +1,194 @@
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+html {
+	font-size: 12px;
+	font-family: verdana;
+}
+
+html header.cabecera {
+	/*background: #2196F3;*/
+	box-shadow: 1.5px 2px 5px #E8EAF6;
+}
+
+header nav {
+	display:  inline-block;		
+	width: 30%;
+}
+
+header h1{
+	display:  inline-block;	
+	font-size: 20px;
+	position: relative;
+	top: -20px;
+	width: 60%;
+	text-align: right;
+	font-family: 'Handlee', cursive;
+}
+
+
+img {
+	width:300px;	
+/*  centra el div (top(0) right(auto) bottom (0) left(auto)*/
+	/*margin: 0 auto 0 auto;*/
+	display: inline-block;	
+}
+
+body{
+	font-family: 'Acme', sans-serif;
+	font-size: 15px;
+}
+
+
+section form input{
+	padding: 2px;
+	margin-top: 10px;
+	font-size: 14px;
+}
+
+
+.sitio {
+	/*background: #E3F2FD;*/
+	border-radius: 0px 15px 15px 15px;
+	border-style: solid;
+	border-width: 2px;
+	display: inline-block;
+	/*font-size: 1.2em;*/
+	margin: 50px 0px 5px 2%;
+	position: relative;
+	vertical-align: top;
+	width: 37%;
+	box-shadow: 0px 0px	30px #696969;
+	transition: transform 0.2s;
+	padding-left: 10px;
+}
+
+section {
+	margin-top: 10px;
+	background: url("../img/fondo.jpg");
+	/*background-repeat: none;*/
+	
+}
+
+section article.sitio h2 {
+	position: absolute;
+	top: -42px;
+	left: -2px;
+	line-height: 20px;
+	border-radius: 10px 10px 0px 0px;	
+	padding: 3px 10px;	
+}
+
+section article header h2 {
+	font-size: 15px;
+}
+
+
+.sitio li {
+	padding: 4px;
+}
+
+.seguroSocial {
+	background: #E3F2FD;
+	border-color:  #303F9F;
+}
+
+.seguroSocial header h2 {
+	background: #2196F3;
+	color: #E3F2FD;	
+	border: 2px solid #303F9F;
+}
+
+.ministerioEducacion header h2 {
+	background: #F57F17;
+	border: 2px solid #5D4037;
+}
+
+
+.ministerioEducacion {
+	background: #FFF3E0;
+	color: #E3F2FD;	
+	border-color: #5D4037;
+}
+
+
+.CNE {
+	background: #E3F2FD;
+	border-color:  #303F9F;
+}
+
+.CNE header h2 {
+	background: #2196F3;
+	color: #E3F2FD;	
+	border: 2px solid #303F9F;
+}
+
+
+.correos {
+	background: #FFF3E0;
+	color: #E3F2FD;	
+	border-color: #5D4037;		
+}
+
+.correos h2 {
+	background: #F57F17;
+	border: 2px solid #424242;
+		
+}
+
+.bancos {
+	background: #E3F2FD;
+	border-color:  #303F9F;
+}
+
+.bancos header h2 {
+	background: #2196F3;
+	color: #E3F2FD;	
+	border: 2px solid #303F9F;
+}
+
+section article.bancos ul{ 	
+	background-color: #E3F2FD; 
+	
+}
+
+section article.bancos ul li{ 	
+	background-color: #E3F2FD; 
+	
+}
+
+section article h3{
+	color:#DD2C00;
+}
+
+
+
+
+/*
+section article.bancos section.bancoDeVenezuela header h3 { 	
+	color: #C62828; 
+
+}
+
+section article.bancos section.BOD header h3 { 
+	color: #1B5E20; 
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
